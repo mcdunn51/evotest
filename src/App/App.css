@@ -1,0 +1,10 @@
+h2 {
+  font-size: 1.5rem;
+}
+.dangerText {
+  color: red;
+}
+#quadNo {
+  font-size: 30px;
+  font-weight: bold;
+}
